@@ -1,0 +1,33 @@
+Welcome to our company's FAQ section.
+
+1. What are your business hours?
+Our business hours are Monday to Friday, from 9:00 AM to 5:00 PM.
+
+2. How can I contact customer support?
+You can contact our customer support team by calling 1-800-123-4567 or emailing support@example.com.
+
+3. Do you offer international shipping?
+Yes, we offer international shipping to select countries. Please check our shipping policy page for more information.
+
+4. What payment methods do you accept?
+We accept major credit cards (Visa, Mastercard, American Express) and PayPal.
+
+5. How do I return a product?
+To return a product, please fill out the return form on our website and follow the instructions provided.
+
+6. Can I track my order?
+Yes, you can track your order using the tracking number provided in your shipping confirmation email.
+
+7. Do you offer discounts for bulk orders?
+Yes, we offer discounts for bulk orders. Please contact our sales team for more information.
+
+8. Where are your products manufactured?
+Our products are manufactured in our facilities located in [Country].
+
+9. How do I update my account information?
+You can update your account information by logging into your account on our website and navigating to the "Account Settings" page.
+
+10. Are your products environmentally friendly?
+Yes, we are committed to sustainability and eco-friendly practices. Many of our products are made from recycled materials.
+
+Thank you for visiting our FAQ section. If you have any further questions, please don't hesitate to contact us.
